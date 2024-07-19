@@ -1,0 +1,37 @@
+:root.spacetheme {
+    --body-background: #0a0a0a;
+
+    --scrollbar-track: #0a0a0a;
+    --scrollbar-thumb: #878cff;
+    --scrollbar-thumb-hover: #666cff;
+
+    --text-color: #ffffff;
+    --text-disabled: #6c757d;
+
+    --nav: #141414;
+    --nav-mobile-menu-icon: invert(0);
+
+    --logo-color: #666cff;
+    --svg: #878cff;
+    --svg-hover: #666cff;
+
+    --button: #1e1e1e;
+    --button-hover: #1e1e1e;
+    --button-active: #0a0a0a;
+
+    --pagination-page-item: #1e1e1e;
+    --pagination-page-item-hover: #141414;
+    --pagination-page-item-active: #666cff;
+    --in-card-pagination-page-item-hover: #1a1a1a;
+
+    --input-border: #1e1e1e;
+
+    --card: #111111;
+    --card-line: #1e1e1e;
+    --card-in-card: #1e1e1e;
+    --card-in-card-line: #111111;
+
+    --shadow: #0A0C11;
+
+    --table-item-odd: #29304490;
+}
